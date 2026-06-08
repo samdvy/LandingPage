@@ -8,6 +8,7 @@
         <li>Organização de código limpa</li>
         <li>Fácil manutenção e escalabilidade</li>
         <li>Melhor divisão de trabalho em equipe</li>
+        <li>Facilidade para integração de código</li>
     </ul>
 
     <form style="margin-top: 30px;">
